@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JButton" name="jButton3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jButton3"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="ply2lbl" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="restartlbl" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="70" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="122" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                              <Component id="p6lbl" min="-2" max="-2" attributes="0"/>
+                              <Group type="102" attributes="0">
+                                  <Component id="p1lbl" min="-2" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Component id="p5lbl" min="-2" max="-2" attributes="0"/>
+                                              <Component id="p2lbl" min="-2" max="-2" attributes="0"/>
+                                              <Component id="p8lbl" alignment="1" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                                          <Component id="p3lbl" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                                          <Component id="ttllbl" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="p4lbl" alignment="1" min="-2" pref="6" max="-2" attributes="0"/>
+                                  <Component id="p7lbl" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="83" max="-2" attributes="0"/>
+                              <Component id="p9lbl" min="-2" pref="34" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="ply1lbl" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="promptlbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="prompt2lbl" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="prompttxt" pref="48" max="32767" attributes="0"/>
+                          <Component id="prompt2txt" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="trn12btn" min="-2" max="-2" attributes="0"/>
+                          <Component id="trn11btn" min="-2" max="-2" attributes="0"/>
+                          <Component id="trn41btn" min="-2" max="-2" attributes="0"/>
+                          <Component id="trn42btn" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="spot1lbl" min="-2" pref="0" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="tspotlbl" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="sespotlbl" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" attributes="0">
+                                      <Component id="firstlbl" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="fispotlbl" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="sspotlbl" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="sixspotlbl" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="fspotlbl" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="eispotlbl" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Component id="spotlbl" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="trn22btn" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="trn32btn" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Component id="turn21btn" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="trn31btn" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="42" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+              <Component id="spotlbl" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="ttllbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="spot1lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                              <Component id="firstlbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="fispotlbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="p2lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="p1lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="p3lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="sspotlbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="sixspotlbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="sespotlbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="tspotlbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="fspotlbl" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="p4lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="p5lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="p6lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="p7lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="p8lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="p9lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
+                      <Component id="ply1lbl" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="eispotlbl" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="promptlbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="prompttxt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="trn11btn" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="turn21btn" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="trn31btn" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ply2lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="restartlbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="trn41btn" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="trn12btn" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="prompt2lbl" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="prompt2txt" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="trn22btn" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="trn32btn" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="trn42btn" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="ttllbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tic Tac Toe"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="p2lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="_ "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="p1lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="_ "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="p3lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="_ "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="p4lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="_"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="p7lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="_"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="p5lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="_ "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="p8lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="_ "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="p6lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="_ "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="p9lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="_"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="promptlbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Enter your placement (1-9) :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="prompttxt">
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="trn11btn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="turn 1"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="trn11btnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="trn12btn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="turn 1"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="trn12btnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ply1lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Player 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="prompt2lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Enter your placement (1-9) :"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="prompt2txt">
+    </Component>
+    <Component class="javax.swing.JLabel" name="ply2lbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Player 2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="restartlbl">
+    </Component>
+    <Component class="javax.swing.JLabel" name="spotlbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Spots taken"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="spot1lbl">
+    </Component>
+    <Component class="javax.swing.JLabel" name="firstlbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="..."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="turn21btn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="turn 2"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="turn21btnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="trn31btn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="turn 3"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="trn31btnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="trn41btn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="turn 4"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="trn41btnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="trn22btn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="turn 2"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="trn22btnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="trn32btn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="turn 3"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="trn32btnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="trn42btn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="turn 4"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="trn42btnActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="sspotlbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="..."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="tspotlbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="..."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="fspotlbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="..."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="sespotlbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="..."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="sixspotlbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="..."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="eispotlbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="..."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="fispotlbl">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="..."/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
